@@ -1,1 +1,5 @@
 # work-day-scheduler
+
+We have been asked to create a simple calendar application that allows a user to save events for each hour of the day. This will be an app that will run in the browser and feature dynamically updated HTML and CSS powered by JQuery. We will also need to use something from the Moment.JS library in order to add dates and times. 
+
+We need to be able to add important events to a daily planner to be able to manage our time effectively. We will create a planner that will allow us to create a schedule. When we open the planner the current day will be displayed at the top of teh calendar. We will scroll down the planner we will see time blocks for standard business hours. When we view the time blocks for the day, it will be color coded to indicate whether it is in the past, present or future. Also, when we click on the time block, the text that is in that event will be saved in local storage. When the page is refreshed the saved events will remain in the planner. 
